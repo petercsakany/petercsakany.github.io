@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quuscron.w4ll3t",
+    "sha256_cert_fingerprints":
+    ["7A:4B:D7:A7:40:3E:86:0F:7B:67:56:A2:40:FD:B7:7B:25:26:00:75:CB:A9:41:7A:6F:C0:D3:AB:CC:72:C9:B5"]
+  }
+}]
